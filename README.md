@@ -24,8 +24,8 @@ Tableau, Google Sheets, Excel, SQL, Python
 - Skills Demonstrated: example Data cleaning (Excel), SQL for querying data, and Tableau for visualization.
 
 ## Education
-BSc(Hons), Sport Science | Stellenbosch University, Cape Town, RSA
-PGCE, Science and PE | Stellenbosch University, Cape Town, RSA
+BSc(Hons), Sport Science | Stellenbosch University | Cape Town | RSA
+PGCE, Science and PE | Stellenbosch University | Cape Town | RSA
 
 ## Certifications
 Tableau Certified Data Analyst | Tableau | Current
