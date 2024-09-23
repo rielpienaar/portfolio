@@ -3,6 +3,12 @@
 ## Technical Skills:
 Tableau, Google Sheets, Excel, SQL, Python
 
+## Projects
+### Title
+- Tools: example SQL, Excel, Tableau
+- Overview: example Developed an interactive sales dashboard for a fictional dataset. It visualizes key performance indicators such as total sales, sales by region, and trends.
+- Skills Demonstrated: example Data cleaning (Excel), SQL for querying data, and Tableau for visualization.
+
 ## Work Experience
 ### Data Fellowship Coach @ Multiverse (June 2022 - Present)
 - Delivered technical training on Excel, Google Sheets, SQL, Tableau, and Python, achieving a 100% pass rate across three enterprise cohorts.
@@ -17,11 +23,6 @@ Tableau, Google Sheets, Excel, SQL, Python
 - Developed an athlete training load monitoring system using Excel and Google Sheets, reducing soft-tissue injuries by 81%.
 - Managed academic tracking for rugby players, maintaining compliance with university eligibility requirements.
 
-## Projects
-### Title
-- Tools: example SQL, Excel, Tableau
-- Overview: example Developed an interactive sales dashboard for a fictional dataset. It visualizes key performance indicators such as total sales, sales by region, and trends.
-- Skills Demonstrated: example Data cleaning (Excel), SQL for querying data, and Tableau for visualization.
 
 ## Education
 BSc(Hons), Sport Science | Stellenbosch University | Cape Town | RSA
