@@ -31,8 +31,11 @@ PGCE, Science and PE | Stellenbosch University | Cape Town | RSA
 
 ## Certifications
 Tableau Certified Data Analyst | Tableau | Current
+
 Tableau Business Intelligence Analyst Professional Certificate | Coursera | Current
+
 IBM Business Intelligence Analyst Professional Certificate | Coursera | Current
+
 IBM Data Analyst Professional Certificate | Coursera
 
 ### Contact
