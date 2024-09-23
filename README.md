@@ -25,6 +25,7 @@ Tableau, Google Sheets, Excel, SQL, Python
 
 ## Education
 BSc(Hons), Sport Science | Stellenbosch University | Cape Town | RSA
+
 PGCE, Science and PE | Stellenbosch University | Cape Town | RSA
 
 ## Certifications
