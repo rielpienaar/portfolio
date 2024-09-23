@@ -6,7 +6,7 @@ Tableau, Google Sheets, Excel, SQL, Python
 ## Work Experience
 ### Data Fellowship Coach @ Multiverse (June 2022 - Present)
 - Delivered technical training on Excel, Google Sheets, SQL, Tableau, and Python, achieving a 100% pass rate across three enterprise cohorts.
-- Led a project to mitigate a £1.1 million revenue risk by coordinating communications during a critical business period.
+- Led a project to mitigate a £1.1 million revenue risk by coordinating communications during a critical business period for the largest eneterprise client.
 - Supported cross-functional data projects using Excel and Power Query, generating over £800K in booked revenue.
 
 ### Science Teacher @ Paul Roos Gymnasium (January 2018 – February 2022)
