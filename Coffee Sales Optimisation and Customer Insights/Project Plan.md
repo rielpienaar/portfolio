@@ -43,7 +43,7 @@ Product Development Team: To improve product offerings based on customer feedbac
 Finance Team: To ensure profitability through optimised pricing strategies.
 
 ### 3. Data Analysis Plan (Four Types of Analytics)
-A. Descriptive Analytics
+#### A. Descriptive Analytics
 
 Objective: Understand historical trends and patterns in coffee orders, pricing, and ratings.
 
@@ -52,7 +52,7 @@ Tools: Google Sheets/Excel (pivot tables, charts), MySQL queries.
 Examples: Distribution of orders by product and time. Historical price fluctuations and customer rating trends.
 
 
-B. Diagnostic Analytics
+#### B. Diagnostic Analytics
 
 Objective: Investigate reasons behind trends identified in descriptive analysis.
 
@@ -61,7 +61,7 @@ Tools: MySQL for complex querying, Excel for correlation analysis.
 Examples: Analysing the impact of pricing changes on customer ratings. Identifying factors behind poor-performing products or low ratings.
 
 
-C. Predictive Analytics
+#### C. Predictive Analytics
 
 Objective: Forecast future sales trends based on historical data.
 
@@ -70,7 +70,7 @@ Tools: Python (regression analysis, time series forecasting), Tableau for visual
 Examples:Predicting future demand for coffee products based on historical data. Forecasting how price changes could affect sales volumes in the next quarter.
 
 
-D. Prescriptive Analytics
+#### D. Prescriptive Analytics
 
 Objective: Recommend actions to optimise pricing and product offerings.
 
